@@ -29,8 +29,8 @@ class Solution:
         return maxW
 
 
-# ip = [1,8,6,2,5,4,8,3,7]
+# inputt = [1,8,6,2,5,4,8,3,7]
 # s = Solution()
-# print(s.maxArea(ip))
+# print(s.maxArea(inputt))
 # @lc code=end
 
