@@ -19,11 +19,10 @@ class Solution:
                     find = True
                     pos = index
                     break
-            
+             
             if find == False and len(limax) < k:
                 find = True
                 pos = len(limax)
-
 
             if find:
                 limax.insert(pos,key)
